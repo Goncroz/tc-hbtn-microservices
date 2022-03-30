@@ -1,0 +1,31 @@
+O que é Arquitetura Serverless
+O serverless é diferente de outros modelos de cloud computing em que o provedor de nuvem é responsável por gerenciar 
+a infraestrutura da nuvem e por escalar as aplicações. As aplicações serverless são implantadas em containers que 
+são iniciados sob demanda e automaticamente quando chamados.
+Em comparação, com a arquitetura serverless, as aplicações são iniciadas apenas quando necessárias. Quando um evento 
+aciona a execução do código da aplicação, o provedor de nuvem pública aloca os recursos relacionados dinamicamente. 
+Os usuários deixam de ser cobrados quando essa execução termina. Além do aumento da eficiência e da economia, o modelo 
+serverless livra os desenvolvedores das tarefas rotineiras e manuais associadas ao provisionamento do servidor e à 
+escala da aplicação.
+
+O que é Function as a service (FaaS) ?
+Função como serviço (FaaS) é um modelo de execução de computação orientado a eventos. Com ele, os desenvolvedores gravam 
+a lógica, que é implantada em containers totalmente gerenciados por uma plataforma e executada sob demanda.
+Em comparação com BaaS, o modelo FaaS proporciona maior controle aos desenvolvedores. Isso possibilita a criação de 
+aplicações personalizadas, evitando a dependência de uma biblioteca de serviços pré-gravados. 
+O código é implantado em containers gerenciados por um provedor de nuvem.
+
+Quais são os benefícios de usar arquitetura Serverless ?
+Produtividade, velocidade, eficiência e baixo custo.
+
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benéficios ?
+É o termo pra utilização de serviços e recursos computacionais através da internet, como armazenamento e capacidade de processamento
+onde o usuário paga apenas pelo que ele utilizou do serviço.
+E os benefícios são: Agilidade, elasticidade, economia, logistica, segurança e disponibilidade das informações e aplicações.
+
+Quais são as principais diferença entre Arquitetura Monólitica, Microsserviços e Serverless ?
+Arquitetura Monolítica é um modelo centralizado em um unico executavel é simples de desenvolver e testar porem complexa para escalar,
+Microsserviços é um modelo quebrado em partes independentes porem interligadas, cada desenvolvedor pode trabalhar em uma parte dessa 
+arquitetura.
+Serverless é um modelo auto gerenciavel que se adapta conforme a necessidade de consumo sem necessidade de provisionamento 
+ou gerenciamento de infraestrutura.
